@@ -1,0 +1,25 @@
+{
+  "name": "easynotes",
+  "version": "1.0.0",
+  "description": "Easy notes application, keeping track all your notes",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Express",
+    "MongoDB",
+    "Mongoose",
+    "Notes"
+  ],
+  "author": "Saurabh Dagwar",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "experss": "0.0.1-security",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.11",
+    "nodemon": "^2.0.6",
+    "webpack-dev-server": "^3.11.0"
+  }
+}
